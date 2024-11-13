@@ -1,3 +1,9 @@
+/*
+ * Elias Hutson
+ * CS 3354.003
+ * Project Submission #2
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
